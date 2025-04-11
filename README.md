@@ -1,112 +1,165 @@
-<!-- Car-themed GitHub Profile README with neon aesthetics -->
+<!-- Enhanced Car-themed GitHub Profile README with racing track border animation -->
 
 <div align="center">
   
-# 🏎️ ROHAN SHARMA 🏎️
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=ROHAN%20SHARMA&fontSize=80&fontColor=FF00FF&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20Data%20Analyst%20|%20Car%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Racing+Sans+One&size=35&duration=6000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Developer+%7C+Data+Analyst;Hackathon+Winner;Car+Enthusiast;Machine+Learning+Expert)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/l41YfsMeWbVZY4hGw/giphy.gif" width="600px" height="20px"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" width="150" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Racing+Sans+One&size=35&duration=6000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;Data+Analytics+Expert;Machine+Learning+Engineer;Hackathon+Winner;Racing+Enthusiast)](https://git.io/typing-svg)
+  
+<img src="https://media.giphy.com/media/l41YfsMeWbVZY4hGw/giphy.gif" width="600px" height="20px"/>
 
-<br>
-
-[![GitHub followers](https://img.shields.io/github/followers/KnightofInd?logo=GitHub&style=for-the-badge&color=ff00ff&labelColor=000000)](https://github.com/KnightofInd)
-[![GitHub stars](https://img.shields.io/github/stars/KnightofInd?logo=github&style=for-the-badge&color=00ffff&labelColor=000000)](https://github.com/KnightofInd)
-[![GitHub forks](https://img.shields.io/github/forks/KnightofInd/KnightofInd?logo=github&style=for-the-badge&color=ff00ff&labelColor=000000)](https://github.com/KnightofInd)
+<a href="https://github.com/KnightofInd"><img src="https://i.imgur.com/iXuL1HG.png" alt="Car Vector" height="150px"/></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Glowing neon racing track border -->
+<div align="center">
+<img src="https://media.giphy.com/media/3og0INhJuHzWO9FbqM/giphy.gif" width="100%" height="10px"/>
+</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="60" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="60" /> <span style="color:#FF00FF">About Me</span>
 
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<table border="0">
+<tr>
+<td width="50%">
 
-### 🏁 I'm a Developer, Data Analyst & Car Enthusiast racing through the digital world!
+### <span style="color:#00FFFF">🏁 Racing Through Tech & Data</span>
 
-- 🎓 Pursuing B.Tech in **Computer Science and Engineering** with specialization in **Big Data Analytics** at **SRM University**
-- 🏆 Consistent **Hackathon Winner** with a passion for building innovative solutions
-- 🚗 Car enthusiast who brings the speed and precision of automotive engineering to coding
-- 💻 Love exploring new technologies and developing software solutions
-- 🤖 Passionate about **Machine Learning** and **NLP**
+- 🎓 **Education:** B.Tech in Computer Science (Big Data Analytics) at SRM University
+- 🏆 **Achievement:** Consistent Hackathon Winner 
+- 💻 **Passion:** Developing innovative software solutions
+- 🚗 **Hobby:** Car enthusiast who brings automotive precision to coding
+- 🤖 **Expertise:** Machine Learning & Natural Language Processing
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</td>
+<td width="50%">
+<img align="right" alt="Racing Car Animation" src="https://media.giphy.com/media/XfpRRgekrDRTvNxk5m/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" /> Tech Stack
+<!-- Glowing neon racing track border -->
+<div align="center">
+<img src="https://media.giphy.com/media/3og0INhJuHzWO9FbqM/giphy.gif" width="100%" height="10px"/>
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" /> <span style="color:#FF00FF">My Tech Garage</span>
 
 <div align="center">
-  
-### In my garage of skills:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,html,css,mongodb,mysql,postgres" />
+<!-- Languages -->
+<h3><span style="color:#00FFFF">Languages & Frameworks</span></h3>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-00FFFF?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-FF00FF?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-00FFFF?style=for-the-badge&logo=css3&logoColor=black" /></a>
+</p>
+
+<!-- Frontend -->
+<h3><span style="color:#00FFFF">Frontend Development</span></h3>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/React-FF00FF?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-00FFFF?style=for-the-badge&logo=next.js&logoColor=black" /></a>
+</p>
+
+<!-- Backend & Database -->
+<h3><span style="color:#00FFFF">Backend & Databases</span></h3>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-FF00FF?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-00FFFF?style=for-the-badge&logo=mysql&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-FF00FF?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Supabase-00FFFF?style=for-the-badge&logo=supabase&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hasura-FF00FF?style=for-the-badge&logo=hasura&logoColor=white" /></a>
+</p>
+
+<!-- Data Science -->
+<h3><span style="color:#00FFFF">Data Science & ML</span></h3>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Machine_Learning-FF00FF?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NLP-00FFFF?style=for-the-badge&logo=nlp&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Data_Analytics-FF00FF?style=for-the-badge&logo=google-analytics&logoColor=white" /></a>
+</p>
+
+</div>
+
+<!-- Glowing neon racing track border -->
+<div align="center">
+<img src="https://media.giphy.com/media/3og0INhJuHzWO9FbqM/giphy.gif" width="100%" height="10px"/>
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="30" /> <span style="color:#FF00FF">GitHub Performance Stats</span>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=KnightofInd&show_icons=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=000000&border_radius=20" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightofInd&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=000000&border_radius=20" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnightofInd&background=000000&stroke=FF00FF&ring=00FFFF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=FF00FF&dates=FFFFFF&hide_border=true" alt="GitHub Streak Stats" />
+  
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/KnightofInd">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KnightofInd&bg_color=000000&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
   </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF00FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/NLP-00FFFF?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Hasura-FF00FF?style=for-the-badge&logo=hasura&logoColor=white" alt="Hasura" />
-  <img src="https://img.shields.io/badge/APIs-00FFFF?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
-</p>
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="30" /> GitHub Analytics
-
+<!-- Glowing neon racing track border -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KnightofInd&show_icons=true&theme=radical&hide_border=true&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightofInd&layout=compact&theme=radical&hide_border=true&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=000000" />
+<img src="https://media.giphy.com/media/3og0INhJuHzWO9FbqM/giphy.gif" width="100%" height="10px"/>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnightofInd&theme=radical&hide_border=true&background=000000&stroke=ff00ff&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff" alt="GitHub Streak Stats" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30" /> Projects & Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30" /> <span style="color:#FF00FF">Top Projects</span>
 
 <div align="center">
-
-### 🏆 My Racing Trophies 🏆
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KnightofInd&repo=KnightofInd&theme=radical&hide_border=true&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=000000)](https://github.com/KnightofInd/KnightofInd)
-
-<!-- Add more pinned repositories as needed -->
-
+  <a href="https://github.com/KnightofInd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KnightofInd&repo=KnightofInd&theme=radical&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=000000&border_radius=20" />
+  </a>
+  <!-- Add more pinned repositories as needed -->
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Glowing neon racing track border -->
+<div align="center">
+<img src="https://media.giphy.com/media/3og0INhJuHzWO9FbqM/giphy.gif" width="100%" height="10px"/>
+</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> <span style="color:#FF00FF">Connect With Me</span>
 
 <div align="center">
+  <a href="https://github.com/KnightofInd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-00FFFF?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
   </a>
 </div>
 
+<!-- Racing car animation -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/KnightofInd/count.svg" alt="Visitor Count" />
+  <img src="https://media.giphy.com/media/cnzP4cmBsiOrccg20V/giphy.gif" width="500px" height="200px" alt="Racing Car Animation" />
+  
+  <h3><span style="color:#00FFFF">🏎️ "Life is like racing... If you don't go all the way, you might as well not go at all." 🏎️</span></h3>
 </div>
 
+<!-- Visitor Counter -->
 <div align="center">
-  
-  ![Racing Car Animation](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)
-  
-  ### *"Life is like a race car. You have to balance speed with control."*
-  
+  <img src="https://profile-counter.glitch.me/KnightofInd/count.svg" alt="Visitor Counter" />
 </div>
 
-<!-- Footer wave animation -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<!-- Footer with racing track animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=footer&text=Full%20Throttle%20Coding&fontSize=40&fontColor=FF00FF&animation=fadeIn&fontAlignY=65" width="100%"/>
