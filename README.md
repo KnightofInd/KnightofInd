@@ -83,6 +83,35 @@
   <a href="#"><img src="https://img.shields.io/badge/Data_Analytics-FFFF00?style=for-the-badge&logo=google-analytics&logoColor=black" /></a>
 </p>
 
+<h3><span style="color:#00FF00">Python Libraries & Tools</span></h3>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-FF0000?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-FFFF00?style=for-the-badge&logo=pandas&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Scikit_Learn-00FF00?style=for-the-badge&logo=scikit-learn&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-0000FF?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Keras-00FF00?style=for-the-badge&logo=keras&logoColor=black" /></a>
+</p>
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-0000FF?style=for-the-badge&logo=matplotlib&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Seaborn-FF0000?style=for-the-badge&logo=seaborn&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Plotly-FFFF00?style=for-the-badge&logo=plotly&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NLTK-00FF00?style=for-the-badge&logo=nltk&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/spaCy-0000FF?style=for-the-badge&logo=spacy&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hugging_Face-FF0000?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
+</p>
+
+<h3><span style="color:#00FF00">ML & Data Skills</span></h3>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Deep_Learning-FFFF00?style=for-the-badge&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Computer_Vision-00FF00?style=for-the-badge&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NLP_Transformers-0000FF?style=for-the-badge&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Time_Series-FF0000?style=for-the-badge&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Big_Data-FFFF00?style=for-the-badge&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Data_Visualization-00FF00?style=for-the-badge&logoColor=black" /></a>
+</p>
+
 </div>
 
 <!-- RGB racing track border -->
@@ -161,3 +190,5 @@
   <img src="https://profile-counter.glitch.me/KnightofInd/count.svg" alt="Visitor Counter" />
 </div>
 
+<!-- Footer with racing track animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=footer&text=Full%20Throttle%20Coding&fontSize=40&fontColor=FF0000&animation=fadeIn&fontAlignY=65&fontFamily=Audiowide" width="100%"/>
