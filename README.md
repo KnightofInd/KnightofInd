@@ -161,5 +161,3 @@
   <img src="https://profile-counter.glitch.me/KnightofInd/count.svg" alt="Visitor Counter" />
 </div>
 
-<!-- Footer with racing track animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=footer&text=Full%20Throttle%20Coding&fontSize=40&fontColor=FF0000&animation=fadeIn&fontAlignY=65&fontFamily=Audiowide" width="100%"/>
