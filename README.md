@@ -180,7 +180,7 @@
 
 <!-- Racing car animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500px" alt="Racing Car Animation" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1sN2JiaWh0bTlqeW54eG45dGV6anNxeThhMjVkZjNkbHVsaTB2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/crwRdnoUGIWfnVElEp/giphy.gif" width="500px" alt="Racing Car Animation" />
   
   <h3 style="font-family: 'Orbitron', sans-serif; color: #00FF00;">🏎️ "Life is like racing... If you don't go all the way, you might as well not go at all." 🏎️</h3>
 </div>
@@ -190,5 +190,4 @@
   <img src="https://profile-counter.glitch.me/KnightofInd/count.svg" alt="Visitor Counter" />
 </div>
 
-<!-- Footer with racing track animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=footer&text=Full%20Throttle%20Coding&fontSize=40&fontColor=FF0000&animation=fadeIn&fontAlignY=65&fontFamily=Audiowide" width="100%"/>
+
