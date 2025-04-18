@@ -35,7 +35,7 @@
 
 </td>
 <td width="50%">
-<img align="right" alt="Racing Car Animation" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" />
+<img align="right" alt="Racing Car Animation" src="https://images.app.goo.gl/EagkVbsE8kF2BPKn8" width="100%" />
 </td>
 </tr>
 </table>
