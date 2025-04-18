@@ -35,7 +35,7 @@
 
 </td>
 <td width="50%">
-<img align="right" alt="Racing Car Animation" src="https://images.app.goo.gl/EagkVbsE8kF2BPKn8" width="100%" />
+<img align="right" alt="Racing Car Animation" src="https://pin.it/2qB59jJV4" width="100%" />
 </td>
 </tr>
 </table>
